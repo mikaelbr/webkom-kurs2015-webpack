@@ -86,9 +86,11 @@ løst på en funksjonell måte, men det må ikke være det i din løsning.
 1. Fyll ut View komponentenene etter beskrivelsen i `./src/main.js` (se hvordan
   den er brukt i `./src/app.js`). I `./src/app.js` ser man også render-loopen.
 2. Start en server og bygg kode ved å kjøre:
+
   ```shell
   $ npm start
   ```
+  
   For å så navigere til http://localhost:3000
   Nå vil siden automatisk oppdatere seg og bevare tilstand når koden endrer seg.
 3. Test ved å kjøre tester: Det er satt opp noen enkle tester på løsningen for
