@@ -1,6 +1,7 @@
 # Webkom Kickoff 2015 - Webpack versjon
 
 > Dette er WebPack versjonen av kurset for de som ønsker hot reloading etc.
+> Browserify-versjon finnes her: https://github.com/mikaelbr/webkom-kurs2015
 
 Ambisiøst introduksjonskurs til, alt eller noe av det følgende.
 
@@ -90,7 +91,7 @@ løst på en funksjonell måte, men det må ikke være det i din løsning.
   ```shell
   $ npm start
   ```
-  
+
   For å så navigere til http://localhost:3000
   Nå vil siden automatisk oppdatere seg og bevare tilstand når koden endrer seg.
 3. Test ved å kjøre tester: Det er satt opp noen enkle tester på løsningen for
