@@ -3,6 +3,8 @@
 > Dette er WebPack versjonen av kurset for de som ønsker hot reloading etc.
 > Browserify-versjon finnes her: https://github.com/mikaelbr/webkom-kurs2015
 
+Slides med mange kode-eksempler: http://git.mikaelb.net/webkom-kurs2015/slides/
+
 Ambisiøst introduksjonskurs til, alt eller noe av det følgende.
 
   1. Bruk av ES2015 i React apps
